@@ -39,3 +39,4 @@ This license does not apply to "texts" protected by other licenses or copyrights
 
 ### [LUTG](https://github.com/ElLowLeo/LUTG/)
 It is the original Portuguese version of FTUL
+**LUTG IS ALIGNED WITH AMERICAN LEGISLATION**
